@@ -1,2 +1,3 @@
 # GIT6COURSE
 INITIAL COMMIT
+## project notes
